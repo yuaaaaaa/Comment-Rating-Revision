@@ -38,7 +38,7 @@
 * 统一数据集的格式为'UTF-8'，便于团队协作
 * 对每一项利用根据jieba分词
 * 根据停用词库stopwords.txt，给得到的分词去停用词
-* 利用NLP进行情感分析，得到正向的分词和负向的分词 pos.txt 和 nag.txt
+* 利用NLP进行情感分析，得到正向的分词和负向的分词 得到一个 motion.txt
 * 将训练集同时划分为positive.csv 和 negative.csv
 #### jieba分词（中文）
 * 基于词典的中文分词
