@@ -40,6 +40,8 @@
 * 根据停用词库stopwords.txt，给得到的分词去停用词
 * 利用NLP进行情感分析，得到正向的分词和负向的分词 pos.txt 和 nag.txt
 * 将训练集同时划分为positive.csv 和 negative.csv
+#### NLP模型
+
 ### 3.获取特征词向量
 * 利用Word2Vec词向量模型将语料转换为词向量
 * 提取特征词向量
