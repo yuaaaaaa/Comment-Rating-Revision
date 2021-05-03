@@ -53,9 +53,8 @@
 建立停用词字典，停用词主要包括一些副词、形容词及其一些连接词。通过维护一个停用词表，实际上是一个特征提取的过程，本质上是特征选择的一部分。
 本项目使用的停用词词典参考
 
-    来源于网络上的常用停用词：stoplist.txt,stopword.txt 
-    
-    来源于各大官方的停用词：中文停用词表	cn_stopwords.txt、哈工大停用词表	hit_stopwords.txt、百度停用词表	baidu_stopwords.txt、四川大学机器智能实验室停用词库 scu_stopwords.txt
+    * 来源于网络上的常用停用词：stoplist.txt,stopword.txt 
+    * 来源于各大官方的停用词：中文停用词表	cn_stopwords.txt、哈工大停用词表	hit_stopwords.txt、百度停用词表	baidu_stopwords.txt、四川大学机器智能实验室停用词库 scu_stopwords.txt
     
 #### NLP模型
 ![情感分析](https://user-images.githubusercontent.com/45160523/116832597-26675280-abe8-11eb-8ea4-fbb1bfbf11f0.png)
