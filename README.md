@@ -57,7 +57,11 @@
     * 来源于各大官方的停用词：中文停用词表	cn_stopwords.txt、哈工大停用词表	hit_stopwords.txt、百度停用词表	baidu_stopwords.txt、四川大学机器智能实验室停用词库 scu_stopwords.txt
     
 #### NLP模型
+* 情感分析的主要流程图
 ![情感分析](https://user-images.githubusercontent.com/45160523/116832597-26675280-abe8-11eb-8ea4-fbb1bfbf11f0.png)
+* 其中一些主要的情感分析库
+![image](https://user-images.githubusercontent.com/45160523/116833499-06399280-abec-11eb-85f8-fa1192cf013d.png)
+
 ### 3.获取特征词向量
 * 利用Word2Vec词向量模型将语料转换为词向量
 * 提取特征词向量
