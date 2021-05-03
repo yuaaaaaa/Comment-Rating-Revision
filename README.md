@@ -41,7 +41,7 @@
 * 利用NLP进行情感分析，得到正向的分词和负向的分词 pos.txt 和 nag.txt
 * 将训练集同时划分为positive.csv 和 negative.csv
 #### NLP模型
-
+![情感分析](https://user-images.githubusercontent.com/45160523/116832597-26675280-abe8-11eb-8ea4-fbb1bfbf11f0.png)
 ### 3.获取特征词向量
 * 利用Word2Vec词向量模型将语料转换为词向量
 * 提取特征词向量
