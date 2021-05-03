@@ -61,7 +61,8 @@
 ![情感分析](https://user-images.githubusercontent.com/45160523/116832597-26675280-abe8-11eb-8ea4-fbb1bfbf11f0.png)
 * 其中一些主要的情感分析库
 ![image](https://user-images.githubusercontent.com/45160523/116833499-06399280-abec-11eb-85f8-fa1192cf013d.png)
-
+* 情感词典文本匹配算法
+![image](https://user-images.githubusercontent.com/45160523/116833516-29fcd880-abec-11eb-833d-66681f999d45.png)
 ### 3.获取特征词向量
 * 利用Word2Vec词向量模型将语料转换为词向量
 * 提取特征词向量
